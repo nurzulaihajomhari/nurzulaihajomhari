@@ -9,9 +9,9 @@
 - I speak English, German, Malay and Korean :)
 
 ## My status 
-- 👀 I’m looking for a career change from academia to industry
-- 🌱 I’m currently following the intensive Data Science training by neuefische
-- ⚡ It is a preparation for me to become a Data Scientist/Data Analyst/Data Engineer in industry
+- 👀 I’m looking for a career change from academia to business/industry
+- 🌱 I have graduated from intensive Data Science training by neuefische GmbH
+- ⚡ Currently taking Berufssprachkurse B2 :)
 
 
 <!---
